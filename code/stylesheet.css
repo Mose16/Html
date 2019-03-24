@@ -1,0 +1,19 @@
+body {
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 10px;
+	margin-bottom: 0;
+	padding-top: 0;
+	background-image: url(tintin.jpg);
+	background-size: 100vw;
+	background-repeat: none;
+	background-position: fixed;
+}
+
+.nav {
+	position: fixed;
+	color: white;
+	float: right;
+	margin-left: 94.5%;
+	margin-top: 1%;
+}
