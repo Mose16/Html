@@ -1,0 +1,3 @@
+def indexPage(on, two):
+	pass
+class index():
