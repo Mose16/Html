@@ -1,0 +1,6 @@
+Define function called indexPage(Passing variables: on, two):
+	pass
+Define class called index():
+
+Set variable name to:  "Moses"
+Set variable oompaLoompa to:  ["lol", "hi"]
