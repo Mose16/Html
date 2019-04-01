@@ -1,13 +1,12 @@
 body {
 	margin-top: 0;
 	margin-left: 0;
-	margin-right: 10px;
 	margin-bottom: 0;
 	padding-top: 0;
 	background-image: url(tintin.jpg);
 	background-size: 100vw;
-	background-repeat: none;
-	background-position: fixed;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .nav {
@@ -16,4 +15,39 @@ body {
 	float: right;
 	margin-left: 94.5%;
 	margin-top: 1%;
+}
+
+.center{
+	height:220%;
+}
+
+#spacer {
+	position: relative;
+	height:10%;
+	width:70%;
+}
+
+#top {
+	position: relative;
+	top:10%;
+	left:10%;
+	width:80%;
+	height:20%;
+	float:center;
+	background-color: white;
+	border-radius: 3px;
+	color:grey;
+	text-align:center;
+}
+
+#bottom {
+	position: relative;
+	left:10%;
+	width:80%;
+	height:20%;
+	float:center;
+	background-color: white;
+	border-radius: 3px;
+	color:grey;
+	text-align:center;
 }
